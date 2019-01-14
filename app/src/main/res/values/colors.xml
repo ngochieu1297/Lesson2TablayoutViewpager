@@ -3,4 +3,5 @@
     <color name="color_primary">#000000</color>
     <color name="color_primary_dark">#000000</color>
     <color name="color_accent">#FF4081</color>
+    <color name="color_background_tablayout">#cfc8c8</color>
 </resources>
