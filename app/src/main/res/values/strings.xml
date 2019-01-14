@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Lesson2TablayoutViewpager</string>
+    <string name="app_name">TablayoutViewpager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_first">First</string>
+    <string name="string_second">Second</string>
+    <string name="string_third">Third</string>
 </resources>
